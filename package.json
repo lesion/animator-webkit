@@ -1,0 +1,19 @@
+{
+  "name": "animator-webkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "frame": false
+  },
+  "scripts": {
+    "start": "nw .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rocco De Patto <rocco.depatto@gmail.com> (http://lesion.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "animator": "git://github.com/lesion/node-animator.git"
+  }
+}
